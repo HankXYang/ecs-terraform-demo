@@ -1,0 +1,1 @@
+{"ChartValues":{},"HelmChartPath":".computenest/templates/scripts","RuntimeType":"Kubernetes","ServiceType":"private","ArtifactSourceType":"HelmChart","ServiceBuildRegion":"ap-southeast-1","RepoName":"HankXYang/ecs-terraform-demo","RegionId":"cn-hangzhou","OutputType":"HelmNotes","Owner":"HankXYang","Branch":"main","Platform":"github"}

@@ -1,0 +1,6 @@
+caseId: stc-0360a4dcb91141088e53
+parameters:
+  instance_charge_type: PostPaid
+  instance_type: $[iact3-auto]
+  password: $[iact3-auto]
+templateName: 模版1
